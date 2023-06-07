@@ -1,0 +1,104 @@
+[
+  
+    {
+      "tutorial_category_id": 1,
+      "topics": [
+        { "id": "html1", "topic_name": "Introduction to HTML" },
+        { "id": "html2", "topic_name": "HTML Tags and Elements" },
+        { "id": "html3", "topic_name": "HTML Forms" },
+        { "id": "html4", "topic_name": "HTML Tables" },
+        { "id": "html5", "topic_name": "HTML Images" },
+        { "id": "html6", "topic_name": "HTML Links" },
+        { "id": "html7", "topic_name": "HTML Semantic Elements" },
+        { "id": "html8", "topic_name": "HTML5 Features" },
+        { "id": "html9", "topic_name": "HTML Accessibility" },
+        { "id": "html10", "topic_name": "HTML Best Practices" },
+        { "id": "html11", "topic_name": "HTML5 Canvas" },
+        { "id": "html12", "topic_name": "HTML5 Video and Audio" },
+        { "id": "html13", "topic_name": "HTML5 Geolocation" },
+        { "id": "html14", "topic_name": "HTML5 Local Storage" },
+        { "id": "html15", "topic_name": "Responsive Web Design with HTML" }
+      ]
+    },
+    {
+      "tutorial_category_id": 2,
+      "topics": [
+        { "id": "css1", "topic_name": "Introduction to CSS" },
+        { "id": "css2", "topic_name": "CSS Selectors" },
+        { "id": "css3", "topic_name": "CSS Box Model" },
+        { "id": "css4", "topic_name": "CSS Layouts" },
+        { "id": "css5", "topic_name": "CSS Colors and Backgrounds" },
+        { "id": "css6", "topic_name": "CSS Typography" },
+        { "id": "css7", "topic_name": "CSS Transitions and Animations" },
+        { "id": "css8", "topic_name": "CSS Flexbox" },
+        { "id": "css9", "topic_name": "CSS Grid" },
+        { "id": "css10", "topic_name": "CSS Media Queries" },
+        { "id": "css11", "topic_name": "CSS Preprocessors (e.g., Sass, Less)" },
+        { "id": "css12", "topic_name": "CSS Frameworks (e.g., Bootstrap, Foundation)" },
+        { "id": "css13", "topic_name": "CSS3 Features" },
+        { "id": "css14", "topic_name": "CSS Naming Conventions" },
+        { "id": "css15", "topic_name": "Responsive Design with CSS" }
+      ]
+    },
+    {
+      "tutorial_category_id": 3,
+      "topics": [
+        { "id": "js1", "topic_name": "Introduction to JavaScript" },
+        { "id": "js2", "topic_name": "JavaScript Variables and Data Types" },
+        { "id": "js3", "topic_name": "JavaScript Functions" },
+        { "id": "js4", "topic_name": "JavaScript Arrays" },
+        { "id": "js5", "topic_name": "JavaScript Objects" },
+        { "id": "js6", "topic_name": "JavaScript DOM Manipulation" },
+        { "id": "js7", "topic_name": "JavaScript Events" },
+        { "id": "js8", "topic_name": "JavaScript AJAX" },
+        { "id": "js9", "topic_name": "JavaScript Promises" },
+        { "id": "js10", "topic_name": "JavaScript ES6+ Features" },
+        { "id": "js11", "topic_name": "JavaScript Error Handling" },
+        { "id": "js12", "topic_name": "JavaScript Design Patterns" },
+        { "id": "js13", "topic_name": "Asynchronous JavaScript" },
+        { "id": "js14", "topic_name": "Client-Side Validation with JavaScript" },
+        { "id": "js15", "topic_name": "Modern JavaScript Frameworks (e.g., React, Angular)" }
+      ]
+    },
+    {
+      "tutorial_category_id": 4,
+      "topics": [
+        { "id": "sql1", "topic_name": "Introduction to SQL" },
+        { "id": "sql2", "topic_name": "SQL Queries" },
+        { "id": "sql3", "topic_name": "SQL Joins" },
+        { "id": "sql4", "topic_name": "SQL Aggregation Functions" },
+        { "id": "sql5", "topic_name": "SQL Subqueries" },
+        { "id": "sql6", "topic_name": "SQL Views" },
+        { "id": "sql7", "topic_name": "SQL Indexes" },
+        { "id": "sql8", "topic_name": "SQL Transactions" },
+        { "id": "sql9", "topic_name": "SQL Stored Procedures" },
+        { "id": "sql10", "topic_name": "SQL Data Manipulation Language (DML)" },
+        { "id": "sql11", "topic_name": "SQL Data Definition Language (DDL)" },
+        { "id": "sql12", "topic_name": "Database Normalization" },
+        { "id": "sql13", "topic_name": "Relational Database Concepts" },
+        { "id": "sql14", "topic_name": "NoSQL Databases" },
+        { "id": "sql15", "topic_name": "Advanced SQL Techniques" }
+      ]
+    },
+    {
+      "tutorial_category_id": 5,
+      "topics": [
+        { "id": "python1", "topic_name": "Introduction to Python" },
+        { "id": "python2", "topic_name": "Python Syntax and Variables" },
+        { "id": "python3", "topic_name": "Python Data Structures (e.g., lists, tuples, dictionaries)" },
+        { "id": "python4", "topic_name": "Python Functions" },
+        { "id": "python5", "topic_name": "Python Control Flow (e.g., if-else statements, loops)" },
+        { "id": "python6", "topic_name": "Python File Handling" },
+        { "id": "python7", "topic_name": "Python Modules and Packages" },
+        { "id": "python8", "topic_name": "Python Object-Oriented Programming (OOP)" },
+        { "id": "python9", "topic_name": "Python Error Handling" },
+        { "id": "python10", "topic_name": "Python Libraries and Frameworks" },
+        { "id": "python11", "topic_name": "Python Web Scraping" },
+        { "id": "python12", "topic_name": "Python Data Analysis and Visualization" },
+        { "id": "python13", "topic_name": "Python Machine Learning" },
+        { "id": "python14", "topic_name": "Python Testing and Debugging" },
+        { "id": "python15", "topic_name": "Python Best Practices" }
+      ]
+    }
+  
+]

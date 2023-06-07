@@ -1,0 +1,48 @@
+{
+  "tutorial_categories": [
+    {
+      "id": 1,
+      "tutorial_name": "HTML"
+    },
+    {
+      "id": 2,
+      "tutorial_name": "CSS"
+    },
+    {
+      "id": 3,
+      "tutorial_name": "JavaScript"
+    },
+    {
+      "id": 4,
+      "tutorial_name": "SQL"
+    },
+    {
+      "id": 5,
+      "tutorial_name": "Python"
+    },
+    {
+      "id": 6,
+      "tutorial_name": "Java"
+    },
+    {
+      "id": 7,
+      "tutorial_name": "C++"
+    },
+    {
+      "id": 8,
+      "tutorial_name": "Ruby"
+    },
+    {
+      "id": 9,
+      "tutorial_name": "PHP"
+    },
+    {
+      "id": 10,
+      "tutorial_name": "React"
+    },
+    {
+      "id": 11,
+      "tutorial_name": "Angular"
+    }
+  ]
+}
